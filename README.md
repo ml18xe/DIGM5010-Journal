@@ -1,2 +1,2 @@
-# maximus.DIGM5010.github.io
+# Maximus Lam
 My Public Journal for DIGM5010
